@@ -14,3 +14,10 @@ We will be using MySQL [Community Server](https://dev.mysql.com/downloads/mysql/
 
 ## Our target relational database:
 <img src="https://miro.medium.com/v2/resize:fit:4800/format:webp/1*t3a_5INp7Xc_0u-aOK_nvg.png" alt="Alternative text" />
+
+## Tool:
+* MySQL Community Server
+* MySQL Python Connector
+* PopSQL
+* Jupyter Notebook
+* pandas
