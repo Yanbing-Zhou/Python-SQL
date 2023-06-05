@@ -3,7 +3,7 @@ Using MySQL Connector and Python to implement a database on MySQL Server, and to
 
 ## Introduction
 * This is a question from: [freecodecamp](https://www.freecodecamp.org/learn/relational-database/)
-* We create relational database using Python and Mysql connector, the idea is following: [Designing a Relational Database and Creating an Entity Relationship Diagram](https://towardsdatascience.com/designing-a-relational-database-and-creating-an-entity-relationship-diagram-89c1c19320b2)
+* We create relational database using Python and [Mysql connector](https://dev.mysql.com/doc/connector-python/en/), the idea is following: [Designing a Relational Database and Creating an Entity Relationship Diagram](https://towardsdatascience.com/designing-a-relational-database-and-creating-an-entity-relationship-diagram-89c1c19320b2)
 
 ## What is relational database?
 According to Oracle, a relational database is “a type of database that stores and provides access to data points that are related to one another”. 
